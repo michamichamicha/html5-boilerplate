@@ -1,0 +1,80 @@
+.lt-ie8
+{
+	input[type="text"]
+	{
+		line-height: 20px;	
+	}
+	.rbl
+	{
+		
+		padding-bottom:3px;
+	
+	}
+	
+	#homepage_blocks
+	{
+		.rbl
+		{
+			display:inline-block;
+			line-height:1.3;
+			padding-bottom:4px;
+		}
+	}
+	.product_details
+	{
+	
+		hr
+		{
+			width:97%;
+		}
+		.rbl
+		{
+			padding-bottom:3px;	
+		}
+	
+	}
+	
+	.sliderlist
+	{
+		float:left;
+		clear:both;
+	}
+	
+	//iacp lineh heigght
+	div.tag
+	{
+		line-height: 16px;
+	}
+
+#fontijn
+{
+	display:none;
+}
+article.proeffestijn 
+{
+	padding-top:10px;
+	
+	
+}
+#proeffestijn_list
+{
+	>ul
+	{
+		>li
+		{
+			padding-left:4px;
+		}
+	}
+	
+}
+
+
+.socialmediablock.twitter
+{
+	
+	height:400px;
+	
+}
+
+}
+
